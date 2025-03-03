@@ -1,5 +1,3 @@
-# 在全新单元格执行以下代码覆盖文件
-%%writefile /kaggle/working/ComfyUI/custom_nodes/symbol_loader.py
 # 保存为 /kaggle/working/ComfyUI/custom_nodes/symbol_loader.py
 import json
 import os
